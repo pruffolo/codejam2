@@ -1,5 +1,5 @@
 # Problem 2
-This is problem #2 from Google Code Jam 2019
+This is my answer to problem #2 from Google Code Jam 2019
 
 Problem: 
 You have just entered the world's easiest maze. You start in the northwest cell of an N by N grid of unit cells, and you must reach the southeast cell. You have only two types of moves available: a unit move to the east, and a unit move to the south. You can move into any cell, but you may not make a move that would cause you to leave the grid.
